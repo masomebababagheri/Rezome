@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/masomebababagheri/Rezome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  
+  <h1  dir="rtl" align="right"> معصومه باباباقری </h1>
+  
+  <h2 dir="rtl" align="right"> اطلاعات شخصی </h2>
+  
+  <p dir="rtl" align="right"> نام و نام خانوادگی: معهصومه باباباقری </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <p dir="rtl" align="right"> تاریخ تولد: 28 آذر 76 </p>
+  
+  <p dir="rtl" align="right"> متاهل </p>
+  
+  <p dir="rtl" align="right"> تهران، دماوند </p>
+  
+  <p dir="rtl" align="right"> دانشجوی مهندسی کامپیوتر (گرایش نرم افزار) </p>
+  
+  <p dir="rtl" align="right"> آدرس ایمیل: mabagheri7672@gmail.com </p>
+  
+  <h2 dir="rtl" align="right"> تحصیلات </h2>
+  
+  <p dir="rtl" align="right"> ورودی سال 1395 به دانشگاه سراسری اراک </p>
+  
+  <p dir="rtl" align="right"> انتقالی سال 1397 به دانشگاه پیام نور دماوند </p>
+  
+  <h2 dir="rtl" align="right"> مهارت ها </h2>
+  
+  <p dir="rtl" align="right"> زبان HTML </p>
+  
+  <p dir="rtl" align="right"> تایپ سریع </p>
+  
+  <p dir="rtl" align="right"> بازی </p>
+  
+  <h2 dir="rtl" align="right">  علاقه مندی ها </h2>
+  
+  <p dir="rtl" align="right"> كتاب، ورزش، تیر و کمان، وبسایت </p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/masomebababagheri/Rezome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
