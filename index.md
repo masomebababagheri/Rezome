@@ -4,7 +4,7 @@
   
   <h2 dir="rtl" align="right"> اطلاعات شخصی </h2>
   
-  <p dir="rtl" align="right"> نام و نام خانوادگی: معهصومه باباباقری </p>
+  <p dir="rtl" align="right"> نام و نام خانوادگی: معصومه باباباقری </p>
 
   <p dir="rtl" align="right"> تاریخ تولد: 28 آذر 76 </p>
   
